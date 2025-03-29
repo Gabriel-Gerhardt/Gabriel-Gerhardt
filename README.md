@@ -1,7 +1,9 @@
 
 # Software Engineering Student at PUCRS
 
--> Contact me in: gabrielgerhardt27@gmail.com
+## Ways of contact
+-> Email: gabrielgerhardt27@gmail.com
+<br></br>
 -> Linkedin: in/gabriel-gerhardt-0a8b852b9
 
 ## Technologies that I know:
