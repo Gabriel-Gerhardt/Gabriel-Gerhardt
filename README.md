@@ -1,10 +1,12 @@
 
 # Software Engineering Student at PUCRS
 
+
 ## Ways of contact
 -> Email: gabrielgerhardt27@gmail.com
 <br></br>
 -> Linkedin: in/gabriel-gerhardt-0a8b852b9
+
 
 ## Technologies that I know:
 <div style="display: flex; gap: 10px;">
