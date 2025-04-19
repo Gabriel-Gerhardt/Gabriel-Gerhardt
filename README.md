@@ -21,7 +21,7 @@
 <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 </div>
 
-##Top Languages
+## Top Languages
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gerhardt&layout=compact&theme=radical)
