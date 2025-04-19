@@ -22,4 +22,4 @@
 </div>
 
 ##Top Languages
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gerhardt&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gerhardt&layout=compact&theme=radical)
