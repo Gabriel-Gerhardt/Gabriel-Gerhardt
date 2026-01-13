@@ -10,8 +10,8 @@
 
 ### Webhook-Manager
 - A centralized webhook system that allows services to emit events and clients to subscribe URLs to those events.
-- Event-driven system that delivers notifications as payloads  
-[GitHub Repository](https://github.com/Gabriel-Gerhardt/Webhook-Manager)
+- Event-driven system that delivers notifications as payloads
+- [Repository](https://github.com/Gabriel-Gerhardt/Webhook-Manager)
 
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
