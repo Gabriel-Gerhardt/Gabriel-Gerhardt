@@ -4,7 +4,14 @@
 - Backend Developer
 - Software Engineering student at PUCRS
 - Passionate about building web projects with scalability and real-world impact
-- Obsessed with Project Patterns, Microservices, and Architecture
+- Obsessed with software design patterns, Microservices, and Architecture
+
+## Projects
+
+### Webhook-Manager
+- A centralized webhook system that allows services to emit events and clients to subscribe URLs to those events.
+- Event-driven system that delivers notifications as payloads  
+[GitHub Repository](https://github.com/Gabriel-Gerhardt/Webhook-Manager)
 
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
@@ -23,8 +30,6 @@
 ![Top Langs](https://githubstats.com.br/api/languages?username=Gabriel-Gerhardt&theme=radical)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/gabriel-gerhardt-0a8b852b9/)
-
-[Gmail](mailto:gabrielgerhardt27@gmail.com)
-
-[GitHub](https://github.com/Gabriel-Gerhardt)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-gerhardt-0a8b852b9/)
+- [Gmail](mailto:gabrielgerhardt27@gmail.com)
+- [GitHub](https://github.com/Gabriel-Gerhardt)
