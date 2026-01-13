@@ -9,8 +9,9 @@
 ## Projects
 
 ### Webhook-Manager
-- A centralized webhook system that allows services to emit events and clients to subscribe URLs to those events.
+- A centralized webhook system that allows services to emit events and clients to subscribe URLs to those events
 - Event-driven system that delivers notifications as payloads
+- Maps events with clients
 - [Repository](https://github.com/Gabriel-Gerhardt/Webhook-Manager)
 
 ## Technologies I Know:
