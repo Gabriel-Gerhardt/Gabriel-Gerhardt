@@ -28,7 +28,7 @@
 </div>
 
 ## Top Languages
-![Top Langs](https://githubstats.com.br/api/languages?username=Gabriel-Gerhardt&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gerhardt&hide_progress=false&theme=radical)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/gabriel-gerhardt-0a8b852b9/)
