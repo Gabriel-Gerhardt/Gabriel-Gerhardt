@@ -29,7 +29,8 @@
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gerhardt)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabriel-Gerhardt)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabriel-Gerhardt)
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/gabriel-gerhardt-0a8b852b9/)
 - [Gmail](mailto:gabrielgerhardt27@gmail.com)
