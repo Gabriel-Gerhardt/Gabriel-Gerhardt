@@ -14,6 +14,13 @@
 - Maps events with clients
 - [Repository](https://github.com/Gabriel-Gerhardt/Webhook-Manager)
 
+
+### GitCrawler
+- Rest API that trims data from github repositories
+- Return files data(files and directories) for ingestion and datasets in many formats(CSV, HTML, XML, JSON)
+- Generate resumes of the repositories with AI
+- [Repository](https://github.com/Gabriel-Gerhardt/Webhook-Manager)
+
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
 
