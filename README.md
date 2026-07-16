@@ -23,11 +23,11 @@
 - [Repository](https://github.com/Gabriel-Gerhardt/GitCrawler.git)
 
 ### ElasticPom
-- Java 21 + SvelteKit + Python 3 + MongoDB + ElasticSearch
-- Rest API that trims data from github repositories
-- Return files data(files and directories) for ingestion and datasets in many formats(CSV, HTML, XML, JSON)
-- Generate resumes of the repositories with AI
-- [Repository](https://github.com/Gabriel-Gerhardt/GitCrawler.git)
+- Java 21 (Spring Boot) + SvelteKit + Python 3 + MongoDB + ElasticSearch
+- Find relevant papers using natural language, not just exact keywords
+- Surface related work even when it uses different terminology than the search
+- Filter results by metadata (date, subject, author) without losing relevance ranking
+- [Repository](https://github.com/Gabriel-Gerhardt/ElasticPom.git)
 
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
