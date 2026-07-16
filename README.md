@@ -9,26 +9,26 @@
 ## Projects
 
 ### Webhook-Manager
-- Java 21 (Spring Boot) + OracleDB
-- A centralized webhook system that allows services to emit events and clients to subscribe URLs to those events
-- Event-driven system that delivers notifications as payloads
-- Maps events with clients
+- **Java 21 (Spring Boot) + Oracle / PostgreSQL**
+- Centralized pub/sub hub that decouples producers from consumers — services emit named events without knowing who's listening
+- Fans out payloads to every URL subscribed to a triggered event
+- Multi-module design: separate producer, consumer, and manager services
 - [Repository](https://github.com/Gabriel-Gerhardt/Webhook-Manager)
 
 
 ### GitCrawler
 - Go 1.22
-- Rest API that trims data from github repositories
-- Return files data(files and directories) for ingestion and datasets in many formats(CSV, HTML, XML, JSON)
-- Generate resumes of the repositories with AI
+- REST API that clones GitHub repos and extracts file data for ingestion
+- Deployed with CI and hourly health checks
+- Exports in multiple formats (JSON, CSV, XML, HTML) and generates AI summaries of a repo's purpose and stack
 - [Repository](https://github.com/Gabriel-Gerhardt/GitCrawler.git)
 
 ### ElasticPom
-- Java 21 (Spring Boot) + SvelteKit + Python 3 + MongoDB + ElasticSearch
-- Find relevant papers using natural language, not just exact keywords
-- Surface related work even when it uses different terminology than the search
-- Filter results by metadata (date, subject, author) without losing relevance ranking
-- [Repository](https://github.com/Gabriel-Gerhardt/ElasticPom.git)
+- **Java 21 (Spring Boot) + SvelteKit + Python 3 + MongoDB + Elasticsearch**
+- Hybrid search engine for scientific papers: runs **BM25 and vector/kNN independently, then fuses them with Reciprocal Rank Fusion**
+- Query embeddings generated locally so they share the ingested corpus's vector space
+- Full pipeline: Python ingestion (OAI-PMH) → MongoDB + Elasticsearch → Spring Boot API → SvelteKit UI
+- [Repository](https://github.com/Gabriel-Gerhardt/ElasticPom)
 
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
