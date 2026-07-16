@@ -17,7 +17,7 @@
 
 
 ### GitCrawler
-- Go 1.22
+- **Go 1.22**
 - REST API that clones GitHub repos and extracts file data for ingestion
 - Deployed with CI and hourly health checks
 - Exports in multiple formats (JSON, CSV, XML, HTML) and generates AI summaries of a repo's purpose and stack
