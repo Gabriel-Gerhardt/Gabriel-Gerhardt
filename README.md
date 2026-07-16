@@ -16,6 +16,7 @@
 
 
 ### GitCrawler
+- Go 1.22
 - Rest API that trims data from github repositories
 - Return files data(files and directories) for ingestion and datasets in many formats(CSV, HTML, XML, JSON)
 - Generate resumes of the repositories with AI
