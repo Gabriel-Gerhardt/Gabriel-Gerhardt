@@ -9,7 +9,7 @@
 ## Projects
 
 ### Webhook-Manager
-- Java 21 (Spring Boot)
+- Java 21 (Spring Boot) + OracleDB
 - A centralized webhook system that allows services to emit events and clients to subscribe URLs to those events
 - Event-driven system that delivers notifications as payloads
 - Maps events with clients
