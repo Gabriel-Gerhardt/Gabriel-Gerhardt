@@ -22,6 +22,13 @@
 - Generate resumes of the repositories with AI
 - [Repository](https://github.com/Gabriel-Gerhardt/GitCrawler.git)
 
+### ElasticPom
+- Java 21 + SvelteKit + Python 3 + MongoDB + ElasticSearch
+- Rest API that trims data from github repositories
+- Return files data(files and directories) for ingestion and datasets in many formats(CSV, HTML, XML, JSON)
+- Generate resumes of the repositories with AI
+- [Repository](https://github.com/Gabriel-Gerhardt/GitCrawler.git)
+
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
 
