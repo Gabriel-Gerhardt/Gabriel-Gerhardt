@@ -31,7 +31,7 @@
 - [Repository](https://github.com/Gabriel-Gerhardt/ElasticPom)
 
 ## Open Source Contributions
-- **Spring Framework** — [PR #37152]([link](https://github.com/spring-projects/spring-data-bom/pull/5)): fixed broken internal xref links across the reference docs, reviewed and merged by core maintainer Sam Brannen.
+- **Spring Framework** — [PR #37152]((https://github.com/spring-projects/spring-data-bom/pull/5)): fixed broken internal xref links across the reference docs, reviewed and merged by core maintainer Sam Brannen.
 
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
