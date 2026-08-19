@@ -30,6 +30,9 @@
 - Full pipeline: Python ingestion (OAI-PMH) → MongoDB + Elasticsearch → Spring Boot API → SvelteKit UI
 - [Repository](https://github.com/Gabriel-Gerhardt/ElasticPom)
 
+## Open Source Contributions
+- **Spring Framework** — [PR #37152](link): fixed broken internal xref links across the reference docs, reviewed and merged by core maintainer Sam Brannen.
+
 ## Technologies I Know:
 <div style="display: flex; gap: 10px;">
 
